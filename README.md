@@ -42,3 +42,10 @@ Dataset Explanation
 -	Workload Score: employee workload score, measured on a relative scale (higher values indicate heavier workloads)
 -	Morale Score: employee moral score, measured on a relative scale (higher scores indicate better work morale)
 
+## Result
+### 1. Which division has the highest attrition rate?
+-	Customer service is the division with the highest attrition rate, 19.93%
+-	The dominant cause of attrition in the Customer Service division is Low Salary, followed by Workload, and Poor Management.
+### 2. What are the main reasons why employees leave the company?
+-	Based on the “ReasonForLeaving” data from the dataset, the dominant reason that causes overall workers to leave the company is Workload, followed by Low Salary, Poor Management, Lack of Growth, and the last is Personal Reasons.
+-	Low Salary and Workload are the 2 main reasons for high attrition in the company.
