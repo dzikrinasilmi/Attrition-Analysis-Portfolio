@@ -63,8 +63,9 @@ Based on the following assumption:
 -	Recruitment cost per employee: Rp200.000
 -	Training cost per employee: Rp1.000.000
 -	Number of employees experiencing attrition: 2 employees per month
+-	
 Then, there is an increase in costs as follows:
--	Total cost per employee = Rp200.000 + RP1.000.000 = Rp.1.200.000
+-	Total cost per employee = Rp200.000 + Rp1.000.000 = Rp1.200.000
 -	With the assumption 2 employees that experiencing attrition per month
 Rp1.200.000 x 2 = Rp2.400.000
 -	Then the operating costs per month is Rp2.400.000, while the annual cost is Rp28.800.000
