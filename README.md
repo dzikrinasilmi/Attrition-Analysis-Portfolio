@@ -1,7 +1,6 @@
 # Attrition-Analysis-Portfolio
 ## Introduction
 Attrition Analysis is an analytical process that aims to understand the rate of loss of customers, employees, or members within an organization or business over a specific period.
-
 ### Key Components in Attrition Analysis
 -	Attrition Rate : the ratio of lost employees or customers to the total population over a certain period of time.
 Formula: (number of individuals leaving / total number of individuals at the beginning of period) x 100
@@ -12,14 +11,12 @@ Formula: (number of individuals leaving / total number of individuals at the beg
 ## Study Case
 ### Objective
 PT. Creativa Solusi faced a high employee attrition rate (18% per year), especially in the product development and customer service divisions, exceeding the industry average (12%). This issue impacts productivity, recruitment costs, and the company's competitiveness in delivering quality products.
-
 ### Business Problem
 High employee attrition rate caused several business problems
 -	Increased operating costs
 -	Decreased productivity
 -	Decreased productivity satisfaction
 -	Low employee morale
-
 ### Questions
 -	Which division has the highest attrition rate?
 -	What are the main reasons why employees leave the company?
@@ -28,3 +25,23 @@ High employee attrition rate caused several business problems
 
 ## Dataset
 <a href="https://github.com/dzikrinasilmi/Attrition-Analysis-Portfolio/blob/main/PTKreativaSolusi.csv">Dataset</a>
+Dataset Explanation
+-	Employee ID: a unique ID for each employee. Used as an identifier to distinguish one employee from another.
+-	Division: the division in which the employee works
+o	Product Development
+o	Customer Service
+o	Sales
+o	HR
+-	Attrition: status of whether the employee is still working in the company (Yes: has left the company, No: still working)
+-	Reason For Leaving: the reason why employees leave the company
+o	Low salary: Employees feel that the salary is too low
+o	Workload: the workload is too high
+o	Poor management: problems with management
+o	Lack of growth: there is no opportunity to grow
+o	Personal reasons
+-	Job Satisfaction: the level of employee satisfaction with their work (scale 1 – 5, very dissatisfied to very satisfied)
+-	Customer Complaints: the number of customer complaints related to their employees or divisions 
+-	Productivity Score: employee productivity score, measured on relative scale (higher values indicate better productivity)
+-	Workload Score: employee workload score, measured on a relative scale (higher values indicate heavier workloads)
+-	Morale Score: employee moral score, measured on a relative scale (higher scores indicate better work morale)
+
