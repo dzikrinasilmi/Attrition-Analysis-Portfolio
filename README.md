@@ -28,18 +28,14 @@ High employee attrition rate caused several business problems
 
 Dataset Explanation
 -	Employee ID: a unique ID for each employee. Used as an identifier to distinguish one employee from another.
--	Division: the division in which the employee works
-o	Product Development
-o	Customer Service
-o	Sales
-o	HR
+-	Division: the division in which the employee works (Product Development, Customer Service, Sales, HR)
 -	Attrition: status of whether the employee is still working in the company (Yes: has left the company, No: still working)
 -	Reason For Leaving: the reason why employees leave the company
-o	Low salary: Employees feel that the salary is too low
-o	Workload: the workload is too high
-o	Poor management: problems with management
-o	Lack of growth: there is no opportunity to grow
-o	Personal reasons
+  (Low salary: Employees feel that the salary is too low,
+  Workload: the workload is too high,
+  Poor management: problems with management,
+  Lack of growth: there is no opportunity to grow,
+  Personal reasons)
 -	Job Satisfaction: the level of employee satisfaction with their work (scale 1 – 5, very dissatisfied to very satisfied)
 -	Customer Complaints: the number of customer complaints related to their employees or divisions 
 -	Productivity Score: employee productivity score, measured on relative scale (higher values indicate better productivity)
