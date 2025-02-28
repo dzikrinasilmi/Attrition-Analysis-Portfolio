@@ -17,7 +17,7 @@ High employee attrition rate caused several business problems
 -	Decreased productivity
 -	Decreased productivity satisfaction
 -	Low employee morale
-### Questions
+### Key Questions
 -	Which division has the highest attrition rate?
 -	What are the main reasons why employees leave the company?
 -	Are there any particular patterns in the attrition data?
@@ -26,7 +26,7 @@ High employee attrition rate caused several business problems
 ## Dataset
 <a href="https://github.com/dzikrinasilmi/Attrition-Analysis-Portfolio/blob/main/PTKreativaSolusi.csv">Dataset</a>
 
-Dataset Explanation
+Dataset Information
 -	Employee ID: a unique ID for each employee. Used as an identifier to distinguish one employee from another.
 -	Division: the division in which the employee works (Product Development, Customer Service, Sales, HR)
 -	Attrition: status of whether the employee is still working in the company (Yes: has left the company, No: still working)
