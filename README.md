@@ -9,7 +9,7 @@ Formula: (number of individuals leaving / total number of individuals at the beg
 -	Prediction and Prevention: Utilize analytical model to predict the risk of loss and recommend a preventive steps
 
 ## Study Case
-### Objective
+### Background
 PT. Creativa Solusi faced a high employee attrition rate (18% per year), especially in the product development and customer service divisions, exceeding the industry average (12%). This issue impacts productivity, recruitment costs, and the company's competitiveness in delivering quality products.
 ### Business Problem
 High employee attrition rate caused several business problems
