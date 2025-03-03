@@ -54,7 +54,7 @@ Dataset Information
 The visualization results of the relationship between turnover status and various factors such as job satisfaction, workload score, morale score, and productivity score are as follows
 -	Turnover employees tend to have lower job satisfaction.
 -	The workload of employees who experience turnover tends to be higher.
--	Employees who leave the organization appear inferior to those who remain in the organization.
+-	Employees who leave the company appear inferior to those who remain in the company.
 -	There is not too much difference in the pattern of productivity scores, but employees who continue to work are slightly more productive.
 ![patterns](https://github.com/user-attachments/assets/a5436184-6e6f-4d8f-8df3-cd33c88354c3)
 ### 4. What is the impact of a high attrition rate?
